@@ -5,13 +5,16 @@
 }
 
 @media screen and (min-width: $min-width) {
-  .gallery {
-    background: linear-gradient(0deg, $white 61%, $background-pink 61%);
-  }
+    .gallery {
+        background: linear-gradient(0deg, $white 60.5%, $background-pink 60.5%);
+    }
 }
 
 @media screen and (min-width: $tablet) {
   .gallery {
-    background: linear-gradient(0deg, $white 61%, $background-pink 61%);
+    background: linear-gradient(0deg, $white 60.5%, $background-pink 60.5%);
   }
 }
+
+
+
